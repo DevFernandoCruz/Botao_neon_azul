@@ -25,7 +25,7 @@ _________________
 </p>
 
 <p align="center">
-    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Botao_com_transicao_de_cores/blob/main/Botao_transicao_cores/Readme/gif.gif"/>  
+    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Botao_neon_azul/blob/main/Botao_transicao_cores/Readme/gif.gif"/>  
 </p>
 
 <br></br>
@@ -37,5 +37,5 @@ _________________
 </p>
 
 <p align="center">
-    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Botao_com_transicao_de_cores/blob/main/Botao_transicao_cores/Readme/mostruario.png"/>  
+    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Botao_neon_azul/blob/main/Botao_transicao_cores/Readme/mostruario.png"/>  
 </p>
